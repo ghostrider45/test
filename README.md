@@ -1,2 +1,2 @@
 Git and Github Basics
-Author: ghostrider45
+# Author: ghostrider45
